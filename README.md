@@ -38,7 +38,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  * I'm currently working on 🔭 building **A messenger clone app using Django** and working up on polishing my skills 🌱 in **Competitive Programming**.
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1r12H21TzxERUdxrNbbqBRdv1hQOcU2ko/view?usp=sharing)
+  - :octocat: [My Resume](https://drive.google.com/file/d/11CgEvF_sHxYqvnynj_e8cfysY3XK7NBk/view?usp=sharing)
   - If you want to connect with me,feel free to message me.
 
 ![Anshuman's LinkedIn](https://www.linkedin.com/in/anshuman-pandey-73b2321a9/)
