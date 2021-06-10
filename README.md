@@ -1,10 +1,6 @@
 ### Hey,[Anshuman here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-[![Linkedin Badge](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anshuman-pandey-73b2321a9" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/anshuman-pandey-73b2321a9?trk=profile-badge">Anshuman Pandey</a></div>
-              )](https://www.linkedin.com/in/anshuman-pandey-73b2321a9/) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:p.anshuman2001@gmail.com) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
-
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
 
 ## :computer: Technologies I Love
@@ -47,7 +43,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
   - :octocat: [My Resume](https://drive.google.com/file/d/1r12H21TzxERUdxrNbbqBRdv1hQOcU2ko/view?usp=sharing)
   - If you want to connect with me,feel free to message me.
 
-![Anshuman's LinkedIn Profile](https://www.linkedin.com/in/anshuman-pandey-73b2321a9/)
+![Anshuman's LinkedIn](https://www.linkedin.com/in/anshuman-pandey-73b2321a9/)
  
  -------
 
