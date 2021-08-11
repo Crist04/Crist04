@@ -1,0 +1,71 @@
+{
+  "main": {
+    "name":"Anshuman Pandey",
+    "occupation":"Full-Stack Web Developer",
+    "description":"I like to code things from scratch, and enjoy bringing ideas to life in the browser",
+    "image":"profilepic.jpg",
+    "contactmessage":"Have me make stuff for you. If you like my work and have some cool projects to work on, just send me a direct message or contact me through social sites.",
+    "email": "p.anshuman2001@gmail.com",
+    "phone": "9682839191",
+    "address":{
+      "city":"Durg",
+      "state":"India",
+      "zip": "491001"
+    },
+    "website": "https://www.alex-portfolio.org/",
+    "resumedownload":"https://drive.google.com/file/d/1R57hxpgyynFGP9wScqmPc4UF_miz5qgt/view",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://mobile.twitter.com/Anshuma75207503",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/anshuman-pandey-73b2321a9/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Crist04",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"email",
+        "url":"p.anshuman2001@gmail.com?subject=The%20subject%20of%20the%20mail",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Shri Shankaracharya Engineering College",
+        "degree":"B.Tech. Computer Science",
+        "graduated":"July 2023",
+        "description":"At Shankaracharya,I have brushed my Web Development Skills and my Data Structures and Algorithms skills as well."
+      },
+      {
+        "school":"Kendriya Vidyalaya Dongargarh",
+        "degree":"Senior Secondary",
+        "graduated":"March 2018",
+        "description":"This was the foundation of my studies where I learnt Mathematics,Science,Computer Science."
+      }
+    ],
+    "work":[
+      {
+        "company": "Codechef Campus Chapter",
+        "title": "President",
+        "years": "May 2021 - current",
+        "description": "Manage the organising team of various coding contest, as well as evaluating new questions. Modified the way we work to make it more optimized and time saving.tion development, wrote and implemented code. Prepared reports on contest specifications, activities, or status of current contest."
+      },
+      {
+        "company":"Codechef Campus Chapter",
+        "title":"Technical Lead",
+        "years":"September 2020 - May 2021",
+        "description":"Contributed to the team with small tasks, such as Questions Creation, Solution Explanations, Contest Quality improvements, etc."
+      }
+    ]
+  }
+  
+}
