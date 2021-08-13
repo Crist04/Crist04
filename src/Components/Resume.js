@@ -69,7 +69,9 @@ class Resume extends Component {
               <i className="devicon-react-plain-wordmark colored technology"></i>
               <i className="devicon-php-plain technology"></i>
               <i className="devicon-mysql-plain-wordmark colored technology"></i>
-              <i className="devicon-github-original technology"></i>  
+              <i className="devicon-github-original technology"></i>
+	  <i className="devicon-python-plain technology"></i>
+              <i className="devicon-cplusplus-plain technology"></i>
             </div>
           </section>
 				</div>
