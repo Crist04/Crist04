@@ -4,9 +4,9 @@
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
 
 ## :computer: Technologies I Love
+* Flutter
 * Django
-* React
-* Frontend and Backend Web Development
+* Frontend Development
 
 
 ## Programming Languages
@@ -18,7 +18,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  	user = 'Anshuman Pandey'
 	current_edu = "Shri Shankaracharya Engineering College"
 	hobbies = [
-				'Playing PC games',
+				'Playing games',
 				'Watching Anime',
 				'Being up all Night developing something interesting...'
 			]
@@ -27,9 +27,9 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 		return Durg_India()
 	
 	def Ambitions():
-		LearnJapanese()
-		Read Light Novels()
-		DevelopingMobileGames()
+		GSOC Selections()
+		Play more Games()
+		Learn Backend Development()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
