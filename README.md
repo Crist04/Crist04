@@ -5,7 +5,8 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 
 ## :computer: Technologies I Love
 * Flutter
-* Django
+* Javascript
+* Kotlin
 * Frontend Development
 
 
