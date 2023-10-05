@@ -28,7 +28,6 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 		return Durg_India()
 	
 	def Ambitions():
-		GSOC Selections()
 		Play more Games()
 		Learn Backend Development()
 		# Assume 10 more awesome ambitions here  ;)
@@ -36,13 +35,14 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  ```
  
 ## Current Works
- * I'm currently working on 🔭 building **A messenger clone app using Django** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * I'm currently working as A flutter developer and working up on polishing my skills 🌱 in **Competitive Programming**.
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1XUxnMoKAA7ZJIgOz5S1p_-8x1jCvyMgG/view?usp=sharing)
   - If you want to connect with me,feel free to message me.
 
 ![Anshuman's LinkedIn](https://www.linkedin.com/in/anshuman-pandey-73b2321a9/)
+![Anshuman's Instagram](https://www.instagram.com/anshuman.pandey__/?hl=en)
  
  -------
 
