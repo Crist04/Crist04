@@ -11,6 +11,7 @@ Welcome to my humble abode in the Digital World! There are 10 types of people in
 * Backend Development
 
 ## Programming Languages
+<p>
 <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg" width="30"/> 
 <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg" width="30"/>
 <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg" width="30"/> 
@@ -18,7 +19,7 @@ Welcome to my humble abode in the Digital World! There are 10 types of people in
 <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg" width="30"/> 
 <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg" width="33"/>
 <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg" width="40"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" width="120"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" width="120"/></p>
 
 ## Who am I?
 ```python
@@ -42,6 +43,8 @@ class WhoAmI:
 
 ## Current Works
 * I'm currently working as a Spring Boot developer and working up on polishing my skills 🌱 in **Competitive Programming**.
+
+
 <a href="https://www.linkedin.com/in/pandey-anshuman/" target="_blank">Anshuman's LinkedIn</a>
 
 -------
