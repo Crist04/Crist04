@@ -11,7 +11,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 
 
 ## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
  
  ## Who am I?
  ```python
@@ -37,12 +37,8 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 ## Current Works
  * I'm currently working as A flutter developer and working up on polishing my skills 🌱 in **Competitive Programming**.
  
-## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1XUxnMoKAA7ZJIgOz5S1p_-8x1jCvyMgG/view?usp=sharing)
-  - If you want to connect with me,feel free to message me.
 
 ![Anshuman's LinkedIn](https://www.linkedin.com/in/anshuman-pandey-73b2321a9/)
-![Anshuman's Instagram](https://www.instagram.com/anshuman.pandey__/?hl=en)
  
  -------
 
