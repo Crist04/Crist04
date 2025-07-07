@@ -40,7 +40,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  * I'm currently working as A springboot developer and working up on polishing my skills 🌱 in **Competitive Programming**.
  
 
-![Anshuman's LinkedIn](https://www.linkedin.com/in/anshuman-pandey-73b2321a9/)
+![Anshuman's LinkedIn](https://www.linkedin.com/in/pandey-anshuman/)
  
  -------
 
