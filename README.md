@@ -42,7 +42,6 @@ class WhoAmI:
 
 ## Current Works
 * I'm currently working as a Spring Boot developer and working up on polishing my skills 🌱 in **Competitive Programming**.
-
-[Anshuman's LinkedIn](https://www.linkedin.com/in/pandey-anshuman/){:target="_blank"}
+<a href="https://www.linkedin.com/in/pandey-anshuman/" target="_blank">Anshuman's LinkedIn</a>
 
 -------
