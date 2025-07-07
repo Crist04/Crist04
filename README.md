@@ -27,7 +27,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 			]
 	
 	def getCity():
-		return Durg_India()
+		return Bengaluru_India()
 	
 	def Ambitions():
 		Play more Games()
@@ -40,7 +40,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  * I'm currently working as A springboot developer and working up on polishing my skills 🌱 in **Competitive Programming**.
  
 
-![Anshuman's LinkedIn](https://www.linkedin.com/in/pandey-anshuman/)
+![Anshuman's LinkedIn](<a href='https://www.linkedin.com/in/pandey-anshuman/' target='_blank'>)
  
  -------
 
