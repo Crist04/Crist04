@@ -4,10 +4,12 @@
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
 
 ## :computer: Technologies I Love
+* Java
 * Flutter
 * Javascript
 * Kotlin
 * Frontend Development
+* Backend Development
 
 
 ## Programming Languages
@@ -29,13 +31,13 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 	
 	def Ambitions():
 		Play more Games()
-		Learn Backend Development()
+		Learn Embedded Engineering()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
  
 ## Current Works
- * I'm currently working as A flutter developer and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * I'm currently working as A springboot developer and working up on polishing my skills 🌱 in **Competitive Programming**.
  
 
 ![Anshuman's LinkedIn](https://www.linkedin.com/in/anshuman-pandey-73b2321a9/)
